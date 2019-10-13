@@ -9,7 +9,7 @@
 	  <li><a href="https://tugas1-101162xx-18.herokuapp.com/">Puspita Rahayu</a></li>
 	</ol>
 
-	test
+	
 	<a href="https://drive.google.com/file/d/1u9vQoMUHuSxmZdBeqDi15XvmZFNX_Xdq/view?usp=sharing">Review Security Cloud Computing</a>
 
   
